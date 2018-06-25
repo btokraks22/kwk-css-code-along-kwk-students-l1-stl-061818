@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+
+body {
+  background-color: #9DF3D2;
+  font-size: 250%;
+  
+}
+
+
+.breeSampleClass {
+  font-family: Courier;
+  font-size: 175%;
+  border: 10px dotted #C7ACFF;
+}
